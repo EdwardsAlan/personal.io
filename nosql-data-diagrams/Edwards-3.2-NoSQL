@@ -1,0 +1,26 @@
+User{
+    "_id": "123456",
+    "date created": "05/19/2019"
+    "Link_User_Role" :[
+        {
+            "Role": {
+                "role_id": "Admin",
+                "Link_Role_Permission: {
+                    "permission":[
+                        {"permission_id": "remove-user"}
+                    ]
+                }
+            }
+        },
+        {
+            "Role":{
+                "role_id": "Admin",
+                "Link_Role_Permission": [
+                    {
+                        "permission:{"permission_id": "add-user"}
+                    }
+                ]
+            }
+        }
+    ],
+}

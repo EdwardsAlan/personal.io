@@ -1,0 +1,18 @@
+{
+    "book_name": "NoSQL for Mere Mortals",
+    "book_price":"14.99",
+    "book_ispn":"0134029895",
+    "publisher":{
+        "publisher_name":"Pearson Education",
+        "publisher_code":"12345",
+        "publisher_address":" 330 Hudson in New York City, New York"
+    },
+    "author":[
+        {
+            "author_first_name": "Dan",
+            "author_last_name":"Sullivan",
+            "author_phone":"1234567890",
+            "author_email":"Dsullivan@gmail.com"
+        }
+    ]
+}
